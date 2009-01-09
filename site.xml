@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.seasar.mayaa.matatabi.feature_1.2.6.jar" id="org.seasar.mayaa.matatabi.feature" version="1.2.6">
+      <category name="Matatabi"/>
+   </feature>
+   <feature url="features/org.seasar.resource.synchronizer.feature_0.0.5.jar" id="org.seasar.resource.synchronizer.feature" version="0.0.5">
+      <category name="ResourceSynchronizer"/>
+   </feature>
+   <feature url="features/org.seasar.sastrutsplugin.feature_0.0.1.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.1">
+      <category name="SAStrutsPlugin"/>
+   </feature>
+   <feature url="features/org.seasar.sastrutsplugin.feature_0.0.2.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.2">
+      <category name="SAStrutsPlugin"/>
+   </feature>
+   <feature url="features/org.seasar.sastrutsplugin.feature_0.0.3.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.3">
+      <category name="SAStrutsPlugin"/>
+   </feature>
+   <feature url="features/org.seasar.sastrutsplugin.feature_0.0.4.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.4">
+      <category name="SAStrutsPlugin"/>
+   </feature>
+   <feature url="features/org.seasar.sastrutsplugin.feature_0.0.5.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.5">
+      <category name="SAStrutsPlugin"/>
+   </feature>
+   <feature url="features/org.seasar.sastrutsplugin.feature_0.0.6.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.6">
+      <category name="SAStrutsPlugin"/>
+   </feature>
+   <feature url="features/org.seasar.sastrutsplugin.feature_0.0.7.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.7">
+      <category name="SAStrutsPlugin"/>
+   </feature>
+   <feature url="features/org.seasar.sastrutsplugin.feature_0.0.8.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.8">
+      <category name="SAStrutsPlugin"/>
+   </feature>
+   <feature url="features/org.seasar.sastrutsplugin.feature_0.0.9.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.9">
+      <category name="SAStrutsPlugin"/>
+   </feature>
+   <feature url="features/org.seasar.sastrutsplugin.feature_0.0.10.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.10">
+      <category name="SAStrutsPlugin"/>
+   </feature>
+   <feature url="features/org.seasar.sastrutsplugin.feature_0.0.11.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.11">
+      <category name="SAStrutsPlugin"/>
+   </feature>
+   <feature url="features/org.seasar.sastrutsplugin.feature_0.0.12.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.12">
+      <category name="SAStrutsPlugin"/>
+   </feature>
+   <feature url="features/org.seasar.sastrutsplugin.feature_0.0.13.jar" id="org.seasar.sastrutsplugin.feature" version="0.0.13">
+      <category name="SAStrutsPlugin"/>
+   </feature>
+   <feature url="features/org.seasar.dolteng.eclipse_0.33.0.jar" id="org.seasar.dolteng.eclipse" version="0.33.0">
+      <category name="Dolteng"/>
+   </feature>
+   <feature url="features/org.seasar.dolteng.eclipse.dependency_0.33.0.jar" id="org.seasar.dolteng.eclipse.dependency" version="0.33.0">
+      <category name="Dolteng"/>
+   </feature>
+   <feature url="features/org.seasar.dolteng.eclipse_0.34.0.jar" id="org.seasar.dolteng.eclipse" version="0.34.0">
+      <category name="Dolteng"/>
+   </feature>
+   <feature url="features/org.seasar.dolteng.eclipse.dependency_0.34.0.jar" id="org.seasar.dolteng.eclipse.dependency" version="0.34.0">
+      <category name="Dolteng"/>
+   </feature>
+   <feature url="features/org.seasar.kijimuna_1.1.12.jar" id="org.seasar.kijimuna" version="1.1.12">
+      <category name="Kijimuna"/>
+   </feature>
+   <feature url="features/org.seasar.kijimuna_1.1.14.jar" id="org.seasar.kijimuna" version="1.1.14">
+      <category name="Kijimuna"/>
+   </feature>
+   <feature url="features/org.maven.ide.eclipse_light.feature_0.9.7.200810141643.jar" id="org.maven.ide.eclipse_light.feature" version="0.9.7.200810141643">
+      <category name="Ymir"/>
+   </feature>
+   <feature url="features/org.seasar.s2junit4plugin.feature_0.1.0.jar" id="org.seasar.s2junit4plugin.feature" version="0.1.0">
+      <category name="S2JUnit4Plugin"/>
+   </feature>
+   <feature url="features/org.seasar.s2junit4plugin.feature_0.1.1.200812151526.jar" id="org.seasar.s2junit4plugin.feature" version="0.1.1.200812151526">
+      <category name="S2JUnit4Plugin"/>
+   </feature>
+   <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.2.0.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.2.0">
+      <category name="EMecha"/>
+   </feature>
+   <feature url="features/org.maven.ide.eclipse_light.feature_0.9.7.200811301758.jar" id="org.maven.ide.eclipse_light.feature" version="0.9.7.200811301758">
+      <category name="Ymir"/>
+   </feature>
+   <feature url="features/org.seasar.ymir.eclipse.feature_0.1.0.200901021715.jar" id="org.seasar.ymir.eclipse.feature" version="0.1.0.200901021715">
+      <category name="Ymir"/>
+   </feature>
+   <feature url="features/org.seasar.ymir.eclipse.feature_0.1.0.200901060144.jar" id="org.seasar.ymir.eclipse.feature" version="0.1.0.200901060144">
+      <category name="Ymir"/>
+   </feature>
+   <feature url="features/org.seasar.ymir.eclipse.feature_0.1.1.200901081347.jar" id="org.seasar.ymir.eclipse.feature" version="0.1.1.200901081347">
+      <category name="Ymir"/>
+   </feature>
+   <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.2.1.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.2.1">
+      <category name="EMecha"/>
+   </feature>
+   <category-def name="SAStrutsPlugin" label="SAStrutsPlugin"/>
+   <category-def name="Matatabi" label="Matatabi - Mayaa Plugin"/>
+   <category-def name="ResourceSynchronizer" label="ResourceSynchronizer"/>
+   <category-def name="EMecha" label="EMecha"/>
+   <category-def name="Dolteng" label="Dolteng"/>
+   <category-def name="Kijimuna" label="Kijimuna"/>
+   <category-def name="Ymir" label="Ymir">
+      <description>
+         Features for Ymir.
+      </description>
+   </category-def>
+   <category-def name="S2JUnit4Plugin" label="S2JUnit4 Plugin">
+      <description>
+         S2Junit4 Plugin for Eclipse
+      </description>
+   </category-def>
+</site>
