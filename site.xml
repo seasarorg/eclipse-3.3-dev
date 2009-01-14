@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.seasar.ymir.eclipse.feature_0.2.0.200901092304.jar" id="org.seasar.ymir.eclipse.feature" version="0.2.0.200901092304">
-      <category name="Ymir"/>
-   </feature>
    <feature url="features/org.seasar.ymir.eclipse.feature_0.2.0.200901131433.jar" id="org.seasar.ymir.eclipse.feature" version="0.2.0.200901131433">
       <category name="Ymir"/>
    </feature>
    <feature url="features/org.seasar.ymir.eclipse.feature_0.2.0.200901131607.jar" id="org.seasar.ymir.eclipse.feature" version="0.2.0.200901131607">
+      <category name="Ymir"/>
+   </feature>
+   <feature url="features/org.seasar.ymir.eclipse.feature_0.2.0.200901141926.jar" id="org.seasar.ymir.eclipse.feature" version="0.2.0.200901141926">
       <category name="Ymir"/>
    </feature>
    <category-def name="Ymir" label="Ymir">
