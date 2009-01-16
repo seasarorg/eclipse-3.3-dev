@@ -12,6 +12,9 @@
    <feature url="features/org.seasar.ymir.eclipse.feature_0.2.0.200901151905.jar" id="org.seasar.ymir.eclipse.feature" version="0.2.0.200901151905">
       <category name="Ymir"/>
    </feature>
+   <feature url="features/org.maven.ide.eclipse_light.feature_0.9.7.200811301758-2009011600.jar" id="org.maven.ide.eclipse_light.feature" version="0.9.7.200811301758-2009011600">
+      <category name="Ymir"/>
+   </feature>
    <category-def name="Ymir" label="Ymir">
       <description>
          Features for Ymir.
