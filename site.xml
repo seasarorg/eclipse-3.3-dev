@@ -3,7 +3,7 @@
    <feature url="features/org.seasar.ymir.eclipse.wst_extension.feature_0.0.1.200901170313.jar" id="org.seasar.ymir.eclipse.wst_extension.feature" version="0.0.1.200901170313">
       <category name="Ymir"/>
    </feature>
-   <feature url="features/org.maven.ide.eclipse_light.feature_0.9.7.200811301758-2009011700.jar" id="org.maven.ide.eclipse_light.feature" version="0.9.7.200811301758-2009011700">
+   <feature url="features/org.maven.ide.eclipse_light.feature_0.9.7.200811301758-2009011701.jar" id="org.maven.ide.eclipse_light.feature" version="0.9.7.200811301758-2009011701">
       <category name="Ymir"/>
    </feature>
    <category-def name="Ymir" label="Ymir">
