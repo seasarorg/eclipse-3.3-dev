@@ -6,6 +6,9 @@
    <feature url="features/org.maven.ide.eclipse_light.feature_0.9.7.200811301758-2009011701.jar" id="org.maven.ide.eclipse_light.feature" version="0.9.7.200811301758-2009011701">
       <category name="Ymir"/>
    </feature>
+   <feature url="features/org.maven.ide.eclipse_light.feature_0.9.7.200811301758-2009020501.jar" id="org.maven.ide.eclipse_light.feature" version="0.9.7.200811301758-2009020501">
+      <category name="Ymir"/>
+   </feature>
    <category-def name="Ymir" label="Ymir">
       <description>
          Features for Ymir.
