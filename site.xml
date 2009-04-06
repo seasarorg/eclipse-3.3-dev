@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.seasar.ymir.eclipse.wst_extension.feature_0.0.1.200901170313.jar" id="org.seasar.ymir.eclipse.wst_extension.feature" version="0.0.1.200901170313">
-      <category name="Ymir"/>
-   </feature>
-   <feature url="features/org.maven.ide.eclipse_light.feature_0.9.7.200811301758-2009011701.jar" id="org.maven.ide.eclipse_light.feature" version="0.9.7.200811301758-2009011701">
-      <category name="Ymir"/>
-   </feature>
-   <feature url="features/org.maven.ide.eclipse_light.feature_0.9.7.200811301758-2009020501.jar" id="org.maven.ide.eclipse_light.feature" version="0.9.7.200811301758-2009020501">
+   <feature url="features/org.seasar.ymir.eclipse.feature_0.2.2.200904070156.jar" id="org.seasar.ymir.eclipse.feature" version="0.2.2.200904070156">
       <category name="Ymir"/>
    </feature>
    <category-def name="Ymir" label="Ymir">
