@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.seasar.ymir.eclipse.feature_0.3.0.200904101720.jar" id="org.seasar.ymir.eclipse.feature" version="0.3.0.200904101720">
+   <feature url="features/org.seasar.ymir.vili.template.feature_0.1.0.200904101917.jar" id="org.seasar.ymir.vili.template.feature" version="0.1.0.200904101917">
       <category name="Ymir"/>
    </feature>
-   <feature url="features/org.seasar.ymir.vili.template.feature_0.1.0.200904101917.jar" id="org.seasar.ymir.vili.template.feature" version="0.1.0.200904101917">
+   <feature url="features/org.seasar.ymir.eclipse.feature_0.3.0.200904120013.jar" id="org.seasar.ymir.eclipse.feature" version="0.3.0.200904120013">
       <category name="Ymir"/>
    </feature>
    <category-def name="Ymir" label="Ymir">
