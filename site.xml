@@ -18,6 +18,9 @@
    <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.4.2.02.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.4.2.02">
       <category name="EMecha"/>
    </feature>
+   <feature url="features/org.seasar.dbflute.emecha.eclipse.feature_0.4.2.03.jar" id="org.seasar.dbflute.emecha.eclipse.feature" version="0.4.2.03">
+      <category name="EMecha"/>
+   </feature>
    <category-def name="Ymir" label="Ymir">
       <description>
          Features for Ymir.
